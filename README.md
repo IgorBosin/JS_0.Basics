@@ -1,1 +1,1 @@
-# Monets
+# JS class
